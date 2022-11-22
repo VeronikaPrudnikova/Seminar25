@@ -6,5 +6,6 @@
 * *git chekaut_name - перевести с главной ветки на ветку *chekaut_name* внимание
 
 ## Branch morging
+* *git morging branch_name - команда осуществляет слияние текущей ветки с branc_name
 
 ## Conflicts
